@@ -26,7 +26,7 @@ const STUDY_DATA = {
         {
             name: "Classical Focus",
             description: "Classical masterpieces for concentration",
-            url: "https://www.youtube.com/embed/videoseries?list=PLVXq77mXV53_3HqhCLGHh1XxlhBMhk9AV"
+            url: "https://www.youtube.com/embed/BMuknRb7woc?si=7wvy6nEGbZEPU-Sg"
         }
     ],
     encouragingMessages: [
